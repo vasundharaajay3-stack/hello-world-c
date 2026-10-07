@@ -10,6 +10,10 @@ This project contains a simple Hello World program written in C.
 
 ## How to Compile and Run
 
+
 ```bash
 gcc hello.c -o hello
 ./hello
+## Projects
+
+This repository contains my first C programming project and demonstrates my basic understanding of C programming.
